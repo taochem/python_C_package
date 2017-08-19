@@ -2,5 +2,5 @@
 # -*- coding: UTF-8 -*-
 
 import hello
-print hello.greet()
+print(hello.greet())
 
